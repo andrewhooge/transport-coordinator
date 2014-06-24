@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  flt-num: 1
+  airline: MyString
+  arr: 2014-06-24 15:56:50
+  dep: 2014-06-24 15:56:50
+
+two:
+  flt-num: 1
+  airline: MyString
+  arr: 2014-06-24 15:56:50
+  dep: 2014-06-24 15:56:50
